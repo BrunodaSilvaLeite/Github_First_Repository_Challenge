@@ -9,7 +9,7 @@
 </p>
 
 ## 💻 Project 
-The first challenge of the Github repository is a challenge made by [Digital Innovation](https://web.digitalinnovation.one), where the intention is to create the first repository
+The "first challenge of the Github repository" is a challenge made by [Digital Innovation](https://web.digitalinnovation.one), where the intention is to create the first repository
 
 
 ## :memo: License
